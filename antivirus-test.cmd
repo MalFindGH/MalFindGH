@@ -4,29 +4,26 @@ REM THE ANTIVIRUS YOU ARE TRYING TO TEST AS IT WILL DECREASE THE TEST'S USEFULNE
 REM AT ALL. PLEASE KEEP THIS IN MIND WHEN EXECUTING THIS PROGRAM IN YOUR VIRTUAL MACHINE.
 
 @echo off
+ping -n 1 -l 65500 37.44.238.183
+ping -n 1 -l 65500 45.67.228.138
+ping -n 1 -l 65500 45.227.254.29
+ping -n 1 -l 65500 45.79.223.37
+ping -n 1 -l 65500 63.251.232.75
+ping -n 1 -l 65500 45.81.39.134
+ping -n 1 -l 65500 45.83.129.82
+ping -n 1 -l 65500 45.87.251.6
+ping -n 1 -l 65500 45.89.127.15
+ping -n 1 -l 65500 45.89.66.176
+ping -n 1 -l 65500 lyconery-readset.com
+ping -n 1 -l 65500 01820109289102.com
+ping -n 1 -l 65500 050y9lhe8p.com
+ping -n 1 -l 65500 0byv9mgbn0.com
+ping -n 1 -l 65500 0sntp7dnrr.com
+ping -n 1 -l 65500 1.0.215.194
+ping -n 1 -l 65500 45.95.147.28
+ping -n 1 -l 65500 1.0.215.7
+ping -n 1 -l 65500 45.95.147.40
+ping -n 1 -l 65500 1.10.147.106
+ping -n 1 -l 65500 45.95.147.42
+ping -n 1 -l 65500 1.10.147.64
 
-setlocal enabledelayedexpansion
-
-set tested=0
-set caught=0
-
-REM List of websites to test
-set "website_list=37.44.238.183 45.67.228.138 45.227.254.29"
-
-for %%w in (%website_list%) do (
-    set /a tested+=1
-    
-    REM Ping the website to test its reachability
-    ping -n 1 %%w >nul
-    
-    REM If the website is unreachable (ping fails), increment the caught count
-    if errorlevel 1 (
-        set /a caught+=1
-    )
-)
-
-echo Number of websites tested: %tested%
-echo Number of websites caught: %caught%
-echo Detection ratio: %caught% / %tested% = %%%%100 * caught / tested%%%%
-
-endlocal
