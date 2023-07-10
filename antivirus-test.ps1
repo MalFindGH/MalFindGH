@@ -136,8 +136,36 @@ $urls = @(
     "http://vashovskycorp.com/LLVYnJwrCUShjd86.psd",
     "http://vashovskycorp.com/tiYPxlkfM14.u32",
     "http://vashovskycorp.com/qIPoSakeLUmdMnnbb149.mso",
-    "http://vashovskycorp.com/iRlMwdLbyFxbhEHodfBBZ198.psm"
-    
+    "http://vashovskycorp.com/iRlMwdLbyFxbhEHodfBBZ198.psm",
+    "http://220.90.223.21:40603/.i",
+    "http://61.53.102.156:51295/bin.sh",
+    "http://61.53.151.31:52598/bin.sh",
+    "http://87.121.221.212/templezx.doc",
+    "http://123.232.174.106:56071/bin.sh",
+    "http://103.139.255.3:48309/i",
+    "http://209.105.243.162/hiddenbin/boatnet.spc",
+    "http://103.131.56.71/R_1022Q/csrssd.exe",
+    "http://117.215.221.159:53310/bin.sh",
+    "https://booking.wiki.br",
+    "http://77.91.84.42/deliver.exe",
+    "http://209.105.243.162/hiddenbin/boatnet.x86",
+    "http://209.105.243.162/hiddenbin/boatnet.arm7",
+    "http://209.105.243.162/hiddenbin/boatnet.mpsl",
+    "http://209.105.243.162/hiddenbin/boatnet.ppc",
+    "http://209.105.243.162/hiddenbin/boatnet.sh4",
+    "http://209.105.243.162/hiddenbin/boatnet.arm6",
+    "http://209.105.243.162/hiddenbin/boatnet.arm5",
+    "http://209.105.243.162/hiddenbin/boatnet.mips",
+    "http://209.105.243.162/hiddenbin/boatnet.m68k",
+    "http://209.105.243.162/hiddenbin/boatnet.arm",
+    "https://edge.microsoft.skyman.cloud/images/1.jpg",
+    "https://edge.microsoft.skyman.cloud/images/2.jpg",
+    "http://222.142.168.50:40834/i",
+    "http://77.91.124.40/info/photo540.exe",
+    "https://crackload.net/download/Heat%20Up%203%20VST%20Crack%20MAC%20Incl%20[Keygen%20%20Torrent]%20Free%20Download%20Downloader.zip",
+    "https://5tfgbgf6yjhg.cfd/mf1TDEFj0UouIv3JPWORKylaQ8NGqt249/?k=16&meta=CCleaner-Pro-6-05-10110-Crack-With-Full-License-Keygen-2022",
+    "https://weokd09rt.one/wsdZ8Elu62nVqWx4mJNayehL7TrQXUoDM/30/Sony-Vegas-Pro-17-Crack-Keygen---Serial-Number-Free-Download---ProductkeyFree"
+
 )
 
 $outputFolder = "C:\Downloads"
