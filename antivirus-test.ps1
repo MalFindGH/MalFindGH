@@ -106,9 +106,37 @@ $urls = @(
     "https://github.com/naati/demo-repo/releases/download/dsv/ytt.exe",
     "http://195.133.147.56:48900/fb.exe",
     "http://95.214.25.233:3002/",
-    "http://95.214.27.98/lend/ProfileUpdate.exe"
-
-
+    "http://95.214.27.98/lend/ProfileUpdate.exe",
+    "http://formacioncontinua.com.mx/2/data64_2.exe",
+    "https://www.handsomemomento.co.uk/12/Bar0628.exe",
+    "https://adinegold.com/Coin_List.pdf.exe",
+    "http://104.156.149.6/webdav/PO_64503.bat",
+    "http://104.156.149.6/webdav/PO_66759.bat",
+    "http://104.156.149.6/webdav/PO_54327.bat",
+    "http://104.156.149.6/webdav/PO_82963.bat",
+    "http://194.180.48.211/zarath/Galgenhumors.vbs",
+    "http://194.180.48.211/zarath/Run.vbs",
+    "http://194.180.48.211/zarath/TPTemLk218.rar",
+    "http://198.244.206.29/paypaypay/installer.exe",
+    "http://103.232.54.88/winspace/vbc.exe",
+    "http://23.94.148.100/451/vbc.exe",
+    "http://104.168.32.152/7808/vbc.exe",
+    "http://212.87.204.204/cxz/WDbikZoeJadCeDp177.deploy",
+    "http://212.87.204.204/cxz/Order.exe",
+    "http://212.87.204.204/cxz/JAWyZTfoWpquBd2.emz",
+    "http://212.87.204.204/cxz/vIaxMlg108.hhk",
+    "http://212.87.204.204/cxz/HbTYMucUTGGAksEyhryH38.csv",
+    "http://212.87.204.20/7677/vbc.exe",
+    "http://212.87.204.200/2191/vbc.exe",
+    "http://212.87.204.200/2192/vbc.exe",
+    "http://103.170.254.253/wincloud/vbc.exe",
+    "http://vashovskycorp.com/lqxBNW194.psp",
+    "http://vashovskycorp.com/hkhtlet92.thn",
+    "http://vashovskycorp.com/TxpuWPY38.dwp",
+    "http://vashovskycorp.com/LLVYnJwrCUShjd86.psd",
+    "http://vashovskycorp.com/tiYPxlkfM14.u32",
+    "http://vashovskycorp.com/qIPoSakeLUmdMnnbb149.mso",
+    "http://vashovskycorp.com/iRlMwdLbyFxbhEHodfBBZ198.psm"
     
 )
 
