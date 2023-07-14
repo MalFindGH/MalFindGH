@@ -3,7 +3,7 @@
 # by Mozi or Mirai or any other botnet for that matter. Please run this script in a safe environment to ensure proper execution and prevention of infection
 # by malware.
 
-
+while ($true) {
 # Generate a random IP address
 $ipAddress = '{0}.{1}.{2}.{3}' -f (Get-Random -Minimum 1 -Maximum 256), (Get-Random -Minimum 1 -Maximum 256), (Get-Random -Minimum 1 -Maximum 256), (Get-Random -Minimum 1 -Maximum 256)
 $testUrl = "http://$ipAddress"
@@ -21,3 +21,4 @@ $testUrl = "http://$ipAddress"
     # Write-Host "Failed to download the file from IP address: $ipAddress"
     # Write-Host "Error message: $($_.Exception.Message)"
 # }
+}
